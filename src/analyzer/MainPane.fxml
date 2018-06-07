@@ -11,7 +11,7 @@
 <!--布局控件BorderPane，fx:controller属性用于声明事件处理的Controller，值为Controller类的类全名-->
 <!--xmlns用于声明默认命名空间，这里的声明随着你安装的Java JDK版本号的不同可以不同，但是最好不要比你安装的JDK版本高-->
 
-<BorderPane prefHeight="323.0" prefWidth="470.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="analyzer.MainPaneController">
+<BorderPane prefHeight="323.0" prefWidth="470.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="analyzer.controller.MainPaneController">
    <top>
       <GridPane prefHeight="323.0" prefWidth="426.0" BorderPane.alignment="CENTER">
         <columnConstraints>
