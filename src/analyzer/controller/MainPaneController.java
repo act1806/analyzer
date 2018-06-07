@@ -1,4 +1,4 @@
-package analyzer;
+package analyzer.controller;
 
 
 import java.io.IOException;
