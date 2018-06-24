@@ -1,0 +1,4 @@
+analyzer\service\ShootBufferedStill.class
+analyzer\HelloApplication.class
+analyzer\controller\MainPaneController.class
+analyzer\controller\ShootingController.class
